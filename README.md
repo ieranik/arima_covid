@@ -1,16 +1,5 @@
 # Covid19 death prediction using ARIMA model 
 
-
-## Tools used:
-+ R
-+ ggplot2
-+ tidyverse
-+ zoo
-+ aTSA
-+ ggplot2tseries
-+ forecast
-+ lubridate
-
 ## Methodology:
 + Data Source: [Our World in Data](https://ourworldindata.org/covid-deaths)
 + Used differentiating transformation to make data stationary (tested using Dickey-Fuller Test)
